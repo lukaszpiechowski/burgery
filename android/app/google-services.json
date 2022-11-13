@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "398165936560",
+    "project_id": "burgery991",
+    "storage_bucket": "burgery991.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398165936560:android:a9de7ea75c98c286442e75",
+        "android_client_info": {
+          "package_name": "com.lukaszpiechowski.burgery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398165936560-dd2vuucldaav8voc4u7a4qangeqgve39.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSAnTVv4vn017JrIk6A6y4T-dLbz7OdT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "398165936560-dd2vuucldaav8voc4u7a4qangeqgve39.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "398165936560-kfoeknrqb7je53igkfjl82p1gc47ttfo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.lukaszpiechowski.burgery"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
